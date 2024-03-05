@@ -81,7 +81,7 @@ bootstrap5:
   label-badge-yellow: var(--bs-warning)
   label-badge-grey: var(--bs-secondary)
 
-  state-icon-color: var(--bs-white)
+  state-icon-color: var(--bs-secondary-color)
 
   # energy
   energy-grid-consumption-color: var(--bs-danger)
